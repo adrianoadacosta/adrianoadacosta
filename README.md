@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @adrianoadacosta
-- 👀 I’m interested in series, filmes, esportes americanos, futebol, tecnologias em geral
-- 🌱 I’m currently learning curso de analise e desenvolvimento de sistemas na faculdade Anhanguera, aprendendo sobre Java, JavaScript,  Angular.js, Adonis.js.
+<p align="center">- 👋 Hi, I’m @adrianoadacosta </p>
+<p align="center">- 👀 I’m interested in series, filmes, esportes americanos, futebol, tecnologias em geral </p>
+<p align="center">- 🌱 I’m currently learning curso de analise e desenvolvimento de sistemas na faculdade Anhanguera, aprendendo sobre Java, JavaScript,  Angular.js, Adonis.js. </p>
 
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
