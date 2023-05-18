@@ -4,6 +4,7 @@
 
 <h3 align="left">FERRAMENTAS E TECNOLOGIAS: </h3>
 <p align="left">
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
   
 <h3 align="left">CONTATOS: </h3>
@@ -15,6 +16,8 @@
 <h3 align="left">IDE: </h3>
 <p align="left">
         
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adrianoadacosta&label=Profile%20views&color=0e75b6&style=flat" alt="adrianoadacosta" /> </p>
 
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
