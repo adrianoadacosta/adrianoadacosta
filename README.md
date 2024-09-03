@@ -1,6 +1,6 @@
 <p align="center">- 👋 Hi, I’m @adrianoadacosta </p>
 <p align="center">- 👀 I’m interested in series, filmes, esportes americanos, futebol, tecnologias em geral </p>
-<p align="center">- 🌱 I’m currently learning curso de analise e desenvolvimento de sistemas na faculdade Anhanguera, aprendendo sobre Java, JavaScript,  Angular.js, Adonis.js. </p>
+<p align="center">- 🌱 I’m currently learning curso de analise e desenvolvimento de sistemas na faculdade Anhanguera, aprendendo sobre Java/spring, JavaScript/react, HTML e CSS </p>
 
 <!---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adrianoadacosta&label=Profile%20views&color=0e75b6&style=flat" alt="adrianoadacosta" /> </p>
