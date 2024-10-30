@@ -23,7 +23,7 @@ Tenho um interesse especial em esportes, incluindo esportes americanos como a NF
 [![DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=dio&logoColor=white)](https://www.dio.me/users/adrianoadacosta)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551986248474?text=Ol%C3%A1+meu+nome+%C3%A9+Adriano+e+irei+responder+a+mensagem+assim+que+poss%C3%ADvel)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:adrianoadacosta@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://adrianoadacosta.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://adrianoadacosta.github.io/portfolio2.0/)
 
 ## 🛠 Ferramentas Usadas:
 
